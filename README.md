@@ -19,6 +19,8 @@ The rise of online gambling promotions has become a serious issue in digital pla
 ---
 
 ## 📂 Project Structure
+
+```
 AI-Detection-Gambling-Promotion/
 │
 ├── 📁 Dataset/              # Raw & cleaned datasets
@@ -29,6 +31,7 @@ AI-Detection-Gambling-Promotion/
 │
 ├── 📄 .gitignore
 └── 📄 README.md
+```
 
 
 ---
