@@ -21,14 +21,14 @@ The rise of online gambling promotions has become a serious issue in digital pla
 ## 📂 Project Structure
 AI-Detection-Gambling-Promotion/
 │
-├── Dataset/ # Raw & cleaned datasets
-├── GPT Model/ # GPT zero-shot & few-shot experiments
-├── IndoBERT/ # Fine-tuned IndoBERT model
-├── Prediction Results/ # Model predictions & evaluation outputs
-├── Preprocessing/ # Data cleaning & preprocessing steps
+├── 📁 Dataset/              # Raw & cleaned datasets
+├── 📁 GPT Model/            # GPT zero-shot & few-shot experiments
+├── 📁 IndoBERT/             # Fine-tuned IndoBERT model & configs
+├── 📁 Prediction Results/   # Model predictions & evaluation outputs
+├── 📁 Preprocessing/        # Data cleaning & preprocessing scripts
 │
-├── .gitignore
-└── README.md
+├── 📄 .gitignore
+└── 📄 README.md
 
 
 ---
