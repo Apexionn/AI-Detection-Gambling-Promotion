@@ -1,0 +1,19 @@
+# Ignore semua folder model / hasil besar
+hasil_model_indobert_base_v3/
+Hasil_Prediksi_Full_Dataset/
+Hasil_Prediksi_GPT_Old/
+indobert_base_judol_final/
+Old_Code/
+
+# Optional: ignore file besar tertentu
+*.pt
+*.bin
+*.h5
+*.ckpt
+
+# Ignore environment file
+.env
+
+# Ignore cache / notebook
+__pycache__/
+.ipynb_checkpoints/
