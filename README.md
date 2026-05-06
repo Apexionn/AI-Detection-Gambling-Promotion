@@ -63,8 +63,8 @@ AI-Detection-Gambling-Promotion/
 
 | Method     | Accuracy | Precision | Recall | F1 Score |
 |------------|----------|----------|--------|----------|
-| Zero-Shot  | 86.95%   | 94.99%   | 72.09% | 81.97%   |
-| Few-Shot   | 90.91%   | 95.43%   | 81.83% | 88.11%   |
+| Zero-Shot  | 86.71%   | 94.53%   | 71.85% | 81.65%   |
+| Few-Shot   | 90.57%   | 94.88%   | 81.47% | 87.67%   |
 
 ### 🔹 IndoBERT Model
 
