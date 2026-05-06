@@ -13,6 +13,7 @@ Old_Code/
 
 # Ignore environment file
 .env
+.DS_Store
 
 # Ignore cache / notebook
 __pycache__/
